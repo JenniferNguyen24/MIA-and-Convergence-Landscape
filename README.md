@@ -225,11 +225,11 @@ If you use this code or findings in your research, please cite:
 
 ## Authors
 
-**Bao Dung Nguyen**, **Tuan Dung Pham**, **Viet Cuong Ta** ✝
+**Bao Dung Nguyen**, **Tuan Dung Pham**, **Viet Cuong Ta(*)**
 
 HMI Lab, VNU University of Engineering and Technology, Hanoi, Vietnam
 
-✝ Corresponding Author
+(*) Corresponding Author
 
 ---
 
